@@ -1,0 +1,57 @@
+[
+    {
+        "question": "What is the correct file extension for Python files?",
+        "options": ["A. .py", "B. .python", "C. .pyt", "D. .pt"],
+        "answer": "A"
+    },
+    {
+        "question": "Which keyword is used to create a function in Python?",
+        "options": ["A. func", "B. function", "C. def", "D. create"],
+        "answer": "C"
+    },
+    {
+        "question": "Which of the following is a mutable data type in Python?",
+        "options": ["A. Tuple", "B. List", "C. String", "D. Integer"],
+        "answer": "B"
+    },
+    {
+        "question": "What does the `len()` function do in Python?",
+        "options": [
+            "A. Returns the number of elements in a list",
+            "B. Returns the length of an object",
+            "C. Returns the size of a file",
+            "D. Both A and B"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "Which Python module is used to generate random numbers?",
+        "options": ["A. math", "B. os", "C. random", "D. datetime"],
+        "answer": "C"
+    },
+    {
+        "question": "What is the output of `print(type([]))`?",
+        "options": ["A. <class 'list'>", "B. <type 'list'>", "C. <class 'tuple'>", "D. <type 'tuple'>"],
+        "answer": "A"
+    },
+    {
+        "question": "Which method is used to add an item to the end of a list in Python?",
+        "options": ["A. add()", "B. append()", "C. insert()", "D. push()"],
+        "answer": "B"
+    },
+    {
+        "question": "How do you start a Python comment?",
+        "options": ["A. //", "B. <!--", "C. /*", "D. #"],
+        "answer": "D"
+    },
+    {
+        "question": "What is the output of `3 * 'Hello '`?",
+        "options": ["A. HelloHelloHello", "B. Hello Hello Hello", "C. Hello HelloHello", "D. HelloHello Hello"],
+        "answer": "B"
+    },
+    {
+        "question": "Which of the following is not a keyword in Python?",
+        "options": ["A. pass", "B. eval", "C. assert", "D. call"],
+        "answer": "D"
+    }
+]

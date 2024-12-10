@@ -1,0 +1,27 @@
+[
+    {
+        "question": "What is the output of the following code?\n\nx = [i**2 for i in range(3)]\nprint(x)",
+        "options": ["A. [0, 1, 4]", "B. [1, 4, 9]", "C. [1, 2, 3]", "D. [0, 1, 2]"],
+        "answer": "A"
+    },
+    {
+        "question": "Which method is used to get all keys from a dictionary in Python?",
+        "options": ["A. dict.keys()", "B. dict.get()", "C. dict.values()", "D. dict.items()"],
+        "answer": "A"
+    },
+    {
+        "question": "What does the `*args` parameter allow you to do in Python?",
+        "options": ["A. Pass a variable number of keyword arguments", "B. Pass a variable number of positional arguments", "C. Define a global variable", "D. Return multiple values"],
+        "answer": "B"
+    },
+    {
+        "question": "What is the output of the following code?\n\nx = {'a': 1, 'b': 2}\nprint(x.get('c', 3))",
+        "options": ["A. None", "B. 'c'", "C. 3", "D. KeyError"],
+        "answer": "C"
+    },
+    {
+        "question": "Which of the following is NOT a valid way to create a set in Python?",
+        "options": ["A. set()", "B. {1, 2, 3}", "C. set([1, 2, 3])", "D. {1: 'a', 2: 'b'}"],
+        "answer": "D"
+    }
+]
